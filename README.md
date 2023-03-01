@@ -15,16 +15,12 @@ To build this application, four different HTML pages (Sign Up, Login, Homepage, 
 
 ## Technologies Used
 
-Node
-NPM
-Sequelize
-MySQL
-Shell
-Handlebars
-Heroku
-API
-JSON
-Bootstrap
+- Bootstrap: CSS framework
+- Handlebars.js: rendering of HTML pages
+- Node.js & Express.js: create RESTFUL APIs
+- MySQL & Sequelize ORM: create databases
+- Cookies: authentification
+- Heroku: deployment of live site
 
 ## Demo of Deployed Site
 
