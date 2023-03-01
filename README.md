@@ -4,6 +4,14 @@ Q-Hub is a simple question forum that allows users to ask others about any types
 
 ## Project Description
 
+To build this application, four different HTML pages (Sign Up, Login, Homepage, Profile) were created using the templating engine Handlebars. The structure and styling of the pages employed the Bootstrap CSS framework. Basic functionality such as event listeners were incorporated with plain JavaScript.
+
+- Sign Up: The user is first prompted to the Sign Up page where they can generate a new account with a User Name, Email, and password.
+- Login: To login, the user needs to input their email and password.
+- Profile: After login, the user will land on the profile page where they can view all questions asked. This is the result of the GET route that retrieves the user's data.
+- Home Page: On the home page, the user can click on 'New Post' to post a new question, with its own title. Through the POST route, other users can view the questions being asked.
+
+
 
 ## Technologies Used
 
