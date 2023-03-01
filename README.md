@@ -11,6 +11,8 @@ WHEN I answer the users question
 THEN The user can comment back to the response
 WHEN I post a question
 THEN other users can comment an answer
+- Function
+  - function
 
 ## Technologies Used
 
