@@ -26,5 +26,5 @@ To build this application, four different HTML pages (Sign Up, Login, Homepage, 
 - file:///Users/nguyensang1998/Downloads/Project%202%20Demo.webm
 
 ## Project URLs
-- Github:
-- Heroku:
+- Github: https://github.com/nguyensang0323/Question-Hub
+- Heroku: https://damp-plains-26918.herokuapp.com/
