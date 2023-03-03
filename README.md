@@ -23,5 +23,8 @@ To build this application, four different HTML pages (Sign Up, Login, Homepage, 
 - Heroku: deployment of live site
 
 ## Demo of Deployed Site
+- file:///Users/nguyensang1998/Downloads/Project%202%20Demo.webm
 
 ## Project URLs
+- Github:
+- Heroku:
