@@ -21,7 +21,7 @@ Chat.init(
       defaultValue: DataTypes.NOW,
     },
     userId: {
-      type: DataTypes.STRING,
+      type: DataTypes.INTEGER,
       allowNull: false,
     },
   },
