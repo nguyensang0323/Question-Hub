@@ -23,7 +23,7 @@ To build this application, four different HTML pages (Sign Up, Login, Homepage, 
 - Heroku: deployment of live site
 
 ## Demo of Deployed Site
-- https://drive.google.com/drive/u/0/my-drive
+- https://drive.google.com/file/d/1vRUeOc4dyBONuOknOsy0LNTvfyq_urVl/view?usp=sharing
 
 ## Project URLs
 - Github: https://github.com/nguyensang0323/Question-Hub
